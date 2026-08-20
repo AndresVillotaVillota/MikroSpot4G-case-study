@@ -576,6 +576,17 @@ La documentación busca mostrar las decisiones técnicas y el alcance del proyec
 
 ---
 
+## Autor
+
+**Andrés Alejandro Villota Villota**
+
+Estudiante de Ingeniería de Sistemas — Universidad de Antioquia
+
+- GitHub: [AndresVillotaVillota](https://github.com/AndresVillotaVillota)
+- Correo: [andres.villotav@udea.edu.co](mailto:andres.villotav@udea.edu.co)
+
+---
+
 ## Nota
 
 Los nombres de productos y tecnologías mencionados pertenecen a sus respectivos propietarios.
